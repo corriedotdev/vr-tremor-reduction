@@ -9,7 +9,7 @@ This repository contains one of the Unity projects developed focusing on accessi
 [![alt text](https://github.com/corriedotdev/VR-Research/raw/main/1-euro-filter/filter.PNG?raw=true)](https://github.com/corriedotdev/VR-Research/blob/main/1-euro-filter/filter.PNG?raw=true)
 
 
-[Link to build](https://github.com/corriedotdev/VR-Research/releases/tag/vr) | [Link to paper tbc]() 
+[Link to build](https://github.com/corriedotdev/vr-tremor-reduction/releases/tag/vr) | [Link to paper tbc]() 
 </div>
 
 
