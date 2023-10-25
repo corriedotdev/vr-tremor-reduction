@@ -1,7 +1,3 @@
-# VR Research Projects
-
-This repository contains one of the Unity projects developed focusing on accessible VR interaction systems and made available to the public domain. 
-
 # "Tremor Reduction for Accessible Ray Based Interaction in VR"
 
 <div align="center">
@@ -13,7 +9,7 @@ This repository contains one of the Unity projects developed focusing on accessi
 </div>
 
 
-This project (1-Euro Filter) is now open source, used for conducting user testing with a normalisation algorithm filtering out user noise at various ranges.
+This project (1-Euro Filter) is now open source, and this exact build was used for conducting user testing with a normalisation algorithm filtering out user noise at various ranges.
 The scene is developed using URP and supports the filtering of transforms and quaternions.
 
 This repo is to go alongside its paper counterpart which is published with the additon of the interaction zone graphics to contribute to an accessible VR framework.
