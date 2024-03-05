@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![alt text](https://github.com/corriedotdev/VR-Research/raw/main/1-euro-filter/filter.PNG?raw=true)](https://github.com/corriedotdev/VR-Research/blob/main/1-euro-filter/filter.PNG?raw=true)
+![alt text](https://github.com/corriedotdev/vr-tremor-reduction/blob/main/filter.PNG)
 
 
 [Link to build](https://github.com/corriedotdev/vr-tremor-reduction/releases/tag/vr) | [Link to paper tbc]() 
