@@ -20,3 +20,8 @@ This repo is to go alongside its paper counterpart which is published with the a
 * Scene 2 Contains the new accesible VR graphic scene with simple laser pointers and the environment for conducting user tests. Please do use this as a template for your future work! By introducing the filtered script we can toggle the filter on and off via the method demonstrated and support in reducing involuntary tremors that may become debilitating to some users when using a VR interface.
 
 Filter was forked from by [Dario Mazzanti](https://www.iit.it/people/dario-mazzanti)
+
+
+## Ergonomic Safe Zone
+
+![safe zone](https://github.com/corriedotdev/vr-tremor-reduction/blob/main/Assets/Textures/VR%20Ergonomic%20Safe%20Zone%20v2.png)
