@@ -8,6 +8,7 @@
 [Link to build](https://github.com/corriedotdev/vr-tremor-reduction/releases/tag/vr) | [Link to paper tbc]() 
 </div>
 
+This project was a significant piece of work I completed during my PhD. Please do reach out to me if you want to discuss the findings, I want this solution integrated on every VR HMD to improve user experience. 
 
 This project (1-Euro Filter) is now open source, and this exact build was used for conducting user testing with a normalisation algorithm filtering out user noise at various ranges.
 The scene is developed using URP and supports the filtering of transforms and quaternions.
