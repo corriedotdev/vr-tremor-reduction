@@ -24,4 +24,4 @@ Filter was forked from by [Dario Mazzanti](https://www.iit.it/people/dario-mazza
 
 ## Ergonomic Safe Zone
 
-![safe zone](https://github.com/corriedotdev/vr-tremor-reduction/blob/main/Assets/Textures/VR%20Ergonomic%20Safe%20Zone%20v2.png)
+![safe zone](https://raw.githubusercontent.com/corriedotdev/vr-tremor-reduction/main/Assets/Textures/VR%20Ergonomic%20Safe%20Zone%20v3.png)
