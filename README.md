@@ -5,7 +5,7 @@
 ![alt text](https://github.com/corriedotdev/vr-tremor-reduction/blob/main/filter.PNG)
 
 
-[Link to build](https://github.com/corriedotdev/vr-tremor-reduction/releases/tag/vr) | [Link to paper tbc]() 
+[Link to build](https://github.com/corriedotdev/vr-tremor-reduction/releases/tag/vr) | [Link to pre-print](https://arxiv.org/abs/2405.07335) 
 </div>
 
 This project was a significant piece of work I completed during my PhD. Please do reach out to me if you want to discuss the findings, I want this solution integrated on every VR HMD to improve user experience. 
