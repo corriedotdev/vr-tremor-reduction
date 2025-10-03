@@ -8,6 +8,7 @@
 [Link to build](https://github.com/corriedotdev/vr-tremor-reduction/releases/tag/vr) | [Link to pre-print](https://arxiv.org/abs/2405.07335) 
 </div>
 
+
 This project was a significant piece of work I completed during my PhD. Please do reach out to me if you want to discuss the findings, I want this solution integrated on every VR HMD to improve user experience. 
 
 This project (1-Euro Filter) is now open source, and this exact build was used for conducting user testing with a normalisation algorithm filtering out user noise at various ranges.
@@ -21,6 +22,7 @@ This repo is to go alongside its paper counterpart which is published with the a
 
 Filter was forked from by [Dario Mazzanti](https://www.iit.it/people/dario-mazzanti)
 
+🚨 Note: Unity security patches have been applied to release builds.
 
 ## Ergonomic Safe Zone
 
